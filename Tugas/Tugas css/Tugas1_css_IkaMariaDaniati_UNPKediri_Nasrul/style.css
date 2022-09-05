@@ -1,0 +1,65 @@
+
+table{
+    margin: auto;
+    margin-top: 55px;
+    width: 80%;
+    height: 400px;
+    background-color: darkblue;
+}
+td{
+    width: 50%;
+    vertical-align: top;
+    text-align: center;
+    padding: 20px;
+}
+
+img{
+    width: 200px;
+    height:  200px;
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    font-style: oblique;
+}
+
+h4{
+    color: whitesmoke;
+}
+
+h2{
+    color: whitesmoke;
+    font-style: oblique;
+}
+p{
+    text-align: left;
+    color:rgb(164, 164, 221);
+}
+
+hr{
+    border-style: dotted;
+
+}
+
+fieldset{
+    text-align: justify;
+    color:rgb(164, 164, 221);
+}
+legend{
+    color: whitesmoke;
+    
+}
+
+li{
+    list-style-image: url(musik.gif);
+}
+
+
+
